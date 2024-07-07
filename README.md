@@ -1,14 +1,14 @@
 # Fashion-mnist_dataset_Clustering
 
-## Overview
+### Overview
 
 This project explores various clustering techniques on the Fashion MNIST dataset using different dimensionality reduction methods. The goal is to identify the best combination of clustering algorithm and dimensionality reduction technique based on specific performance metrics.
 
-## Dataset
+### Dataset
 
 The dataset used is the Fashion MNIST dataset, which consists of 70,000 grayscale images in 10 categories.
 
-## Methodology
+### Methodology
 
 The methodology of this project involves several key steps to preprocess the data, reduce its dimensionality, and apply clustering techniques. Initially, the images from the Fashion MNIST dataset are preprocessed by flattening them into one-dimensional arrays and normalizing the pixel values. This step ensures uniformity and prepares the data for further analysis.
 
