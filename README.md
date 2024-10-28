@@ -6,7 +6,7 @@ This project explores various clustering techniques on the Fashion MNIST dataset
 
 ### Dataset
 
-The dataset used is the Fashion MNIST dataset, which consists of 70,000 grayscale images in 10 categories.
+The dataset used is the [Fashion MNIST dataset] (https://keras.io/api/datasets/fashion_mnist/), which consists of 70,000 grayscale images in 10 categories.
 
 ### Methodology
 
