@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project explores various clustering techniques on the Fashion MNIST dataset using different dimensionality reduction methods. The goal is to identify the best combination of clustering algorithm and dimensionality reduction technique based on specific performance metrics.
+This project explores various clustering techniques on the Fashion MNIST dataset using different dimensionality reduction methods. The goal is to identify the best combination of clustering algorithm and dimensionality reduction technique based on specific performance metrics. It was developed as part of a coursework assignment for the Applied Informatics postgraduate program.
 
 ### Dataset
 
